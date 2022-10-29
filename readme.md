@@ -19,7 +19,8 @@ npm start
 
 ##Look Like This
 
-![image](https://user-images.githubusercontent.com/101393695/198740016-e38d5065-7060-496f-a8dd-c989f3f6456f.png)
+![image](https://user-images.githubusercontent.com/101393695/198823497-94d10964-aceb-42e9-9898-fc729849528c.png)
+
 
 <br>
 
